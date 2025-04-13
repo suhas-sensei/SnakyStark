@@ -1,8 +1,9 @@
 <p align="center">
-<img src="./icons/snakystark-logo.png" width='200' />
+  <img src="https://github.com/user-attachments/assets/255466b1-f105-4a79-8e88-9e95a95ae8ed" width="200" />
 </p>
 
 <h1 align="center">SnakyStark</h1>
+
 
 <p align="center">
   <a href="https://your-build-link-here">
