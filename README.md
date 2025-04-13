@@ -64,7 +64,7 @@
    - Visit the official site
    - Click **“Start Game”** to initialize a match
 
-<img src="https://ibb.co/8FDKzT" width='700' />
+<img src="https://ibb.co/8FDKzT.png" width='700' />
 
 2. **Join with a Friend**
    - Two players can join with their wallets
