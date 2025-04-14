@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/snakystark">
+  <a href="https://t.me/snakystarkdev">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&flat&logo=telegram" alt="Telegram">
   </a>
 </p>
