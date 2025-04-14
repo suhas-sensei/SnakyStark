@@ -46,7 +46,8 @@
 ## 🤝 Contributors
 
 <a href="https://github.com/YourRepo/snakystark/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=YourRepo/snakystark" />
+ <img src="https://contrib.rocks/image?repo=suhas-sensei/SnakyStark" />
+
 </a>
 
 ---
